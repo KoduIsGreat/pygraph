@@ -1,4 +1,4 @@
-from interview import graph
+from pygraph import graph
 import io
 
 def sort_by_new_line(input: str):
